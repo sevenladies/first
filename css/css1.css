@@ -1,0 +1,38 @@
+html{
+	font-family:sans-serif;
+	font-size:10px;
+}
+
+body{
+	width:600px;
+	margin:0 auto;
+	background-color:orange;
+	padding:0 20px 20px 20px;
+	border:1px solid black;
+}
+
+html{
+	background-color:blue;
+}
+
+h1{
+	font-size:60px;
+	text-align:center;
+}
+
+p,li{
+	font-size:16px;
+	line-height:2;
+	letter-spacing:1px;
+}
+
+h1{
+	margin: 0;
+	padding:20px 0;
+	text-shadow:3px 3px 1px black;
+}
+	
+img{
+	display:block;
+	margin:0 auto;
+}
